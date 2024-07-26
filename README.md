@@ -90,7 +90,7 @@ Quick start options:
 
 The documentation for the Material Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/material-dashboard/?ref=readme-mdr).
 
-### What's included
+### File Structure
 
 Within the download you'll find the following directories and files:
 
